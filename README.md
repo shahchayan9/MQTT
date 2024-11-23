@@ -10,7 +10,7 @@ This project analyzes water mark levels (WML) from multiple reservoirs in Califo
 
 ## How to Use
 
-1. Run the Python scripts in to generate daily reports.
+1. Run the Python scripts in `scripts/` to generate daily reports.
 2. The data will be output in JSON format and aggregated into daily summaries.
 
 ## Technologies
