@@ -34,6 +34,6 @@ aggregated_reports = [{"Date": date, **report} for date, report in daily_reports
 
 # Convert to DataFrame and save to a CSV file
 daily_report_df = pd.DataFrame(aggregated_reports)
-daily_report_df.to_csv('reports/daily_reports.csv', index=False)
+daily_report_df.to_csv('daily_reports.csv', index=False)
 
-print("Daily reports have been generated and saved to 'reports/daily_reports.csv'.")
+print("Daily reports have been generated and saved to 'daily_reports.csv'.")
