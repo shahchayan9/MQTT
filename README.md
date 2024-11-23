@@ -4,8 +4,8 @@ This project analyzes water mark levels (WML) from multiple reservoirs in Califo
 
 ## Files
 
-- **data/**: Contains CSV files with water mark levels (WML) for different reservoirs (e.g., Oroville, Shasta, Sonoma).
-- **scripts/**: Contains Python scripts for processing the data and generating reports.
+- Contains CSV files with water mark levels (WML) for different reservoirs (e.g., Oroville, Shasta, Sonoma).
+- Contains Python scripts for processing the data and generating reports.
 - **reports/**: Contains generated daily reports.
 
 ## How to Use
