@@ -31,8 +31,7 @@ git clone https://github.com/yourusername/Water-Reservoir-Data-Analysis.git
 ├── Oroville_WML.csv
 ├── Shasta_WML.csv
 ├── Sonoma_WML.csv
-├── reports/
-│   └── daily_reports.csv  # The generated report
+├── daily_reports.csv  # The generated report
 ├── data_processing.py  # The Python script for data processing
 ├── mqtt_publisher.py   # The Python script for MQTT publishing (optional)
 └── README.md
